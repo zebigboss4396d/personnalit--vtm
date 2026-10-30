@@ -5,3 +5,5 @@ Questionnaire et, pour le site Conteur, pondérations et moteur adaptés du proj
 La notice MIT du code d’origine est conservée dans LICENSE.txt. Le code adapté est fourni avec cette notice ; le fond de Chicago, fourni pour ce projet par l’utilisateur, est un élément distinct du code et n’est pas couvert par cette notice MIT.
 
 Le README de la source comporte également une mention d’usage non commercial liée à son contexte de propriété intellectuelle. Ce projet n’est pas un produit officiel de Paradox ou White Wolf.
+
+Illustration de personnalité : créée avec un outil de génération d’images pour ce questionnaire, le 30 octobre 2026. Elle constitue une ressource visuelle distincte de la licence MIT du code.

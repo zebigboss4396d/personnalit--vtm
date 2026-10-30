@@ -40,3 +40,7 @@ Le fond de Chicago est inclus dans `assets/chicago-1940.webp`. Les polices Googl
 ## Provenance de cette archive
 
 Export du code source correspondant au commit `71f227f61f94029bf7acdfd1af66354b58bf9730`, préparé le 30 octobre 2026. Copie autonome pour GitHub Pages ; les réglages privés de l’hébergement ChatGPT ont été exclus. Aucun dépôt GitHub n’a été créé ni publié par cette préparation.
+
+## Illustration en filigrane
+
+L’illustration symbolique des choix de personnalité est incluse dans `assets/personnalite-filigrane.webp` et appliquée aux panneaux du questionnaire, de l’accueil à la relecture. Un voile crème préserve la lisibilité. Le panorama nocturne de Chicago reste le fond extérieur. Pour ajuster sa présence, modifiez les opacités `.88` et `.90` dans le dernier bloc `.paper` de `style.css` : une opacité plus élevée atténue davantage l’image.

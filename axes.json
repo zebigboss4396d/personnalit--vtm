@@ -1,0 +1,182 @@
+[
+  {
+    "id": "s1",
+    "left": "Sensibilité artistique",
+    "right": "Esprit scientifique"
+  },
+  {
+    "id": "s2",
+    "left": "La beauté",
+    "right": "L’utilité"
+  },
+  {
+    "id": "s3",
+    "left": "Savoir théorique",
+    "right": "Sens pratique acquis sur le terrain"
+  },
+  {
+    "id": "s4",
+    "left": "Prudence",
+    "right": "Audace"
+  },
+  {
+    "id": "s5",
+    "left": "Compassion",
+    "right": "Détachement émotionnel"
+  },
+  {
+    "id": "s6",
+    "left": "Esprit de compétition",
+    "right": "Attitude décontractée"
+  },
+  {
+    "id": "s7",
+    "left": "Confiance en soi",
+    "right": "Besoin d’être rassuré"
+  },
+  {
+    "id": "s8",
+    "left": "Créativité",
+    "right": "Respect des conventions"
+  },
+  {
+    "id": "s9",
+    "left": "Décision rapide",
+    "right": "Hésitation"
+  },
+  {
+    "id": "s10",
+    "left": "Tenir ses engagements",
+    "right": "S’adapter aux circonstances"
+  },
+  {
+    "id": "s11",
+    "left": "Les pieds sur terre",
+    "right": "La tête dans les nuages"
+  },
+  {
+    "id": "s12",
+    "left": "La fin justifie les moyens",
+    "right": "Agir avec honneur"
+  },
+  {
+    "id": "s13",
+    "left": "Escrime",
+    "right": "Boxe"
+  },
+  {
+    "id": "s14",
+    "left": "Personnalité flamboyante",
+    "right": "Réserve"
+  },
+  {
+    "id": "s15",
+    "left": "Liberté d’esprit",
+    "right": "Discipline"
+  },
+  {
+    "id": "s16",
+    "left": "Chien de garde",
+    "right": "Chat de gouttière"
+  },
+  {
+    "id": "s17",
+    "left": "Suivre son cœur",
+    "right": "Suivre sa raison"
+  },
+  {
+    "id": "s18",
+    "left": "Extraverti",
+    "right": "Introverti"
+  },
+  {
+    "id": "s19",
+    "left": "Hiérarchie",
+    "right": "Autorité partagée"
+  },
+  {
+    "id": "s20",
+    "left": "Hôtel",
+    "right": "Camping"
+  },
+  {
+    "id": "s21",
+    "left": "Diriger le groupe",
+    "right": "Faciliter la coopération"
+  },
+  {
+    "id": "s22",
+    "left": "La lettre de la loi",
+    "right": "L’esprit de la loi"
+  },
+  {
+    "id": "s23",
+    "left": "Bibliothèque",
+    "right": "Salle d’entraînement"
+  },
+  {
+    "id": "s24",
+    "left": "Goût du changement",
+    "right": "Goût de la stabilité"
+  },
+  {
+    "id": "s25",
+    "left": "Démonter pour comprendre",
+    "right": "Préserver ce qui fonctionne"
+  },
+  {
+    "id": "s26",
+    "left": "Obéissance",
+    "right": "Rébellion"
+  },
+  {
+    "id": "s27",
+    "left": "Paladin",
+    "right": "Voleur"
+  },
+  {
+    "id": "s28",
+    "left": "Apaiser les conflits",
+    "right": "Attiser la contestation"
+  },
+  {
+    "id": "s29",
+    "left": "Planification",
+    "right": "Spontanéité"
+  },
+  {
+    "id": "s30",
+    "left": "Esprit joueur",
+    "right": "Sérieux"
+  },
+  {
+    "id": "s31",
+    "left": "Spiritualité",
+    "right": "Scepticisme"
+  },
+  {
+    "id": "s32",
+    "left": "Dire la vérité",
+    "right": "Arranger la vérité"
+  },
+  {
+    "id": "s33",
+    "left": "Tension",
+    "right": "Détente"
+  },
+  {
+    "id": "s34",
+    "left": "Sortir des sentiers battus",
+    "right": "Suivre le cadre établi"
+  },
+  {
+    "id": "s35",
+    "left": "Transparence",
+    "right": "Informations essentielles seulement"
+  },
+  {
+    "id": "s36",
+    "left": "Esprit de meute",
+    "right": "Solitaire"
+  }
+]

@@ -35,7 +35,7 @@ Les brouillons et dossiers sont conservés dans le navigateur, pour chaque adres
 
 ## Ressources
 
-Le fond de Chicago est inclus dans `assets/chicago-1940.webp`. Les polices Google sont chargées à distance ; si elles sont indisponibles, des polices de remplacement sont utilisées. Les archives ne contiennent ni identifiants de déploiement, ni clé, ni réponse réelle de joueur.
+Le fond illustré des choix de personnalité est inclus dans `assets/personnalite-filigrane.webp`. Les polices Google sont chargées à distance ; si elles sont indisponibles, des polices de remplacement sont utilisées. Les archives ne contiennent ni identifiants de déploiement, ni clé, ni réponse réelle de joueur.
 
 ## Provenance de cette archive
 
@@ -43,4 +43,4 @@ Export du code source correspondant au commit `71f227f61f94029bf7acdfd1af66354b5
 
 ## Illustration en filigrane
 
-L’illustration symbolique des choix de personnalité est incluse dans `assets/personnalite-filigrane.webp` et appliquée aux panneaux du questionnaire, de l’accueil à la relecture. Un voile crème préserve la lisibilité. Le panorama nocturne de Chicago reste le fond extérieur. Pour ajuster sa présence, modifiez les opacités `.88` et `.90` dans le dernier bloc `.paper` de `style.css` : une opacité plus élevée atténue davantage l’image.
+L’illustration symbolique des choix de personnalité est incluse dans `assets/personnalite-filigrane.webp` et appliquée comme fond général du site, de l’accueil à la relecture. Un voile crème préserve la lisibilité et les textes extérieurs utilisent des couleurs sombres. Le panorama nocturne de Chicago a été retiré. Pour ajuster sa présence, modifiez l’opacité `.48` dans le dernier bloc `body:after` de `style.css` : une opacité plus élevée atténue davantage l’image.
